@@ -127,15 +127,16 @@ netflix-powerbi-dashboard
 ---
 
 ## 👩‍💻 Author
-
 **Nisha Haldar**
-
 Aspiring **Data Analyst**
 
 Skills:
+- python
 - Power BI
+- Sql(PostgreSql, MySql)
+- Statistics
+- Advance Excel
 - Data Visualization
-- SQL
 - Data Analytics
 
 ---
