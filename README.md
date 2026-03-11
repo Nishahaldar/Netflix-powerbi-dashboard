@@ -1,137 +1,156 @@
-🎬 Netflix Content Analytics Dashboard (Power BI)
-📌 Project Overview
+<h1 align="center">🎬 Netflix Content Analytics Dashboard</h1>
 
-This project presents an interactive Power BI dashboard built using the Netflix dataset.
-The goal of this project is to analyze Netflix content including movies and TV shows to uncover insights related to ratings, directors, countries producing content, and release trends.
+<p align="center">
+📊 Power BI Data Analytics Project
+</p>
 
-The dashboard provides a clear and interactive visualization of Netflix data, helping users understand content distribution and patterns across the platform.
+<p align="center">
+<img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Skill-Data%20Analytics-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Dataset-Netflix-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visualization-Dashboard-green?style=for-the-badge">
+</p>
 
-🎯 Project Objectives
+---
 
-The main objectives of this project are:
+## 📌 Project Overview
 
-• Analyze the number of Movies vs TV Shows available on Netflix
-• Identify the most common content ratings
-• Discover top directors creating Netflix content
-• Analyze content distribution by country
-• Understand release trends across different years
-• Explore movie duration patterns
+This project presents an **interactive Power BI dashboard** created using the Netflix dataset.
 
-📊 Dashboard Features
+The dashboard helps analyze Netflix content including:
 
-This dashboard includes multiple visualizations to explore Netflix content data:
+- Movies vs TV Shows
+- Ratings Distribution
+- Top Directors
+- Content by Country
+- Release Year Trends
+- Movie Duration Analysis
 
-Key Metrics
+The purpose of this project is to explore Netflix data and create meaningful insights using **data visualization techniques**.
 
-Total Netflix Titles
+---
 
-Total Movies
+## 🎯 Project Objectives
 
-Total TV Shows
+- Analyze Netflix movies and TV shows dataset  
+- Identify popular ratings on Netflix  
+- Discover top directors producing Netflix content  
+- Analyze content distribution across countries  
+- Understand release trends over the years  
+- Build an interactive dashboard using Power BI  
 
-Total Countries
+---
 
-Total Directors
+## 📂 Dataset
 
-Visualizations
+The dataset includes information such as:
 
-Movies vs TV Shows Distribution
+- Show ID
+- Title
+- Director
+- Country
+- Genre
+- Release Year
+- Rating
+- Duration
 
-Top Directors Analysis
+### 🔗 Dataset Link
 
-Rating Distribution
+[Netflix Dataset](https://github.com/Nishahaldar/netflix-powerbi-dashboard/blob/main/Netflix_dataset.csv)
 
-Content by Country (Map Visualization)
+---
 
-Release Year Trend
+## 🛠 Tools & Technologies
 
-Movie Duration Analysis
+| Tool | Purpose |
+|------|--------|
+| Power BI | Data Visualization & Dashboard |
+| CSV Dataset | Data Source |
+| GitHub | Project Hosting |
+| Data Analytics | Data Exploration |
 
-These visuals help identify patterns and trends in Netflix content.
+---
 
-🗂 Dataset Information
+## 📊 Dashboard Insights
 
-The dataset used in this project contains information about Netflix titles including:
+The dashboard provides the following insights:
 
-Show ID
+📌 Total Movies & TV Shows  
 
-Title
+📌 Movies vs TV Shows Distribution  
 
-Director
+📌 Top Directors Analysis  
 
-Country
+📌 Rating Distribution  
 
-Genre / Category
+📌 Content by Country (Map Visualization)  
 
-Release Year
+📌 Release Year Trend  
 
-Rating
+📌 Movie Duration Analysis  
 
-Duration
+---
 
-📥 Dataset Link
-
-Dataset available in this repository:
-
-Netflix_dataset.csv
-
-Or open directly:
-
-https://github.com/Nishahaldar/netflix-powerbi-dashboard/blob/main/Netflix_dataset.csv
-🛠 Tools & Technologies Used
-Tool	Purpose
-Power BI	Data Visualization & Dashboard
-CSV Dataset	Data Source
-GitHub	Project Hosting
-Data Analytics	Data exploration and insights
-🖼 Dashboard Preview
-
-Below is the preview of the Power BI dashboard:
+## 🖼 Dashboard Preview
 
 ![Netflix Dashboard](Netflix_Dashboard.png)
 
-This screenshot shows the interactive dashboard used to analyze Netflix data.
+---
 
-🚀 How to Use This Project
+## 🚀 How to Use
 
-1️⃣ Download the Power BI (.pbix) file from this repository.
+1. Download the **Power BI (.pbix) file** from this repository  
+2. Open the file using **Power BI Desktop**  
+3. Explore the interactive dashboard using filters and visuals  
 
-2️⃣ Open the file using Power BI Desktop.
+---
 
-3️⃣ Explore the interactive dashboard and visualizations.
-
-📂 Repository Structure
+## 📁 Repository Structure
 netflix-powerbi-dashboard
 │
 ├── Netflix_Dashboard.pbix
 ├── Netflix_Dashboard.png
 ├── Netflix_dataset.csv
 └── README.md
-📈 Key Insights from the Dashboard
 
-• Netflix has more Movies compared to TV Shows
 
-• Certain content ratings dominate the platform
 
-• Content production is concentrated in a few major countries
+---
 
-• Some directors have produced multiple titles on Netflix
+## 📈 Key Insights
 
-• The number of titles released has grown over time
+- Netflix contains **more Movies than TV Shows**
+- Content is produced mainly in **a few major countries**
+- Some directors have created **multiple titles**
+- Netflix content releases have **increased over time**
 
-👩‍💻 Author
+---
 
-Nisha Haldar
+## 👩‍💻 Author
 
-Aspiring Data Analyst passionate about learning:
+**Nisha Haldar**
 
-Data Analytics
+Aspiring **Data Analyst**
 
-Power BI
+Skills:
+- Power BI
+- Data Visualization
+- SQL
+- Data Analytics
 
-SQL
+---
 
-Data Visualization
+## 🌐 Connect With Me
 
-GitHub Profile:
-https://github.com/Nishahaldar
+💼 LinkedIn  
+[Nisha Haldar](https://www.linkedin.com/in/nisha-haldar-011675371)
+
+💻 GitHub  
+[NishaHaldar](https://github.com/Nishahaldar)
+
+📊 Project Repository  
+[Netflix Power BI Dashboard](https://github.com/Nishahaldar/netflix-powerbi-dashboard)
+
+---
+
+⭐ If you like this project, consider **starring the repository**.
